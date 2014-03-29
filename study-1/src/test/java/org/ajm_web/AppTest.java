@@ -16,7 +16,7 @@ public class AppTest {
 
     @Test
     public void testExec_0(){
-        assertThat(fb.calc(0), is("0"));
+        assertThat(fb.calc(0), is("Fizz Buzz"));
     }
 
 
@@ -32,7 +32,7 @@ public class AppTest {
 
     @Test
     public void testExec_15(){
-        assertThat(fb.calc(15), is("FizzBuzz"));
+        assertThat(fb.calc(15), is("Fizz Buzz"));
     }
 
     @Test
