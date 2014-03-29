@@ -1,4 +1,4 @@
-package org.ajm-web;
+package org.ajm_web;
 
 /**
  * Hello world!
